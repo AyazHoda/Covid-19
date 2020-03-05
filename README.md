@@ -1,2 +1,2 @@
-# Covit19
+# Covid19
 Corona Virus reported cases
